@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball Game 3D", "Ball Game 3D.csproj", "{A7B853D4-C287-9254-4D3F-F3A2F8F7EB76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ball Game 3D.Editor", "Ball Game 3D.Editor.csproj", "{ABF40804-67B1-91E3-27C7-FCB91FA04249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B853D4-C287-9254-4D3F-F3A2F8F7EB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B853D4-C287-9254-4D3F-F3A2F8F7EB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B853D4-C287-9254-4D3F-F3A2F8F7EB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B853D4-C287-9254-4D3F-F3A2F8F7EB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABF40804-67B1-91E3-27C7-FCB91FA04249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABF40804-67B1-91E3-27C7-FCB91FA04249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABF40804-67B1-91E3-27C7-FCB91FA04249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABF40804-67B1-91E3-27C7-FCB91FA04249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

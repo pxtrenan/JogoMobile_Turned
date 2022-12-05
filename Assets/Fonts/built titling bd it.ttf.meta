@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 7793324e2b2bc3647b871fd344f38723
+timeCreated: 1549233955
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Built Titling
+  fontNames:
+  - Built Titling
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 61f9a4637e8c9a740a94d4a68ac725a7, type: 3}
+  - {fileID: 12800000, guid: 5727c02476856f148a67be573eaf79f4, type: 3}
+  - {fileID: 12800000, guid: 54673d987198d3d439d6c6711b99ca8d, type: 3}
+  - {fileID: 12800000, guid: 28693829954de7740856255845b3f3fe, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

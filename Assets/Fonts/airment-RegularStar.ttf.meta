@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d94ab0e1d31c8b446955e86549d38f07
+timeCreated: 1549231800
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: airment
+  fontNames:
+  - airment
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d039ab05790dea14cba8a3d03cb3cf5e, type: 3}
+  - {fileID: 12800000, guid: 6a360376c10a3364b8da1394ea5edd57, type: 3}
+  - {fileID: 12800000, guid: 4458e12b62194784496dc0f54c0d18d7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
